@@ -1,0 +1,13 @@
+.Numbes-timer{
+    display: flex;
+    justify-content:space-around;
+    font-size: 150px;
+}
+.String-timer{
+    font-size: 90px;
+    display: flex;
+    justify-content:space-around;
+}
+.static-tim{
+    padding: 200px;
+}
